@@ -1,6 +1,6 @@
 # Hi there, Tinno 👋
 
-**Fullstack Developer | Student **
+**Fullstack Developer | Student**
 
 Welcome to my GitHub profile. I use this space to share my learning journey, projects, and skills as I continue growing in technology and professional development.
 
@@ -36,38 +36,6 @@ I am a motivated student and full-stack developer currently working at PT. Scanj
 **Years:** 2021 - 2024
 **Graduation Year:** 2024
 **Highlights:** Academic achievements, extracurricular activities, or interests developed during high school.
-
----
-
-## 💼 Project Experience
-
-### **1. PBL Project – First Semester**
-
-**Project Title:** Your PBL Project Title
-**Period:** First Semester, 20XX
-**Description:** Describe the project objective, the problem it solved, your role in the team, and the final outcome.
-**Skills Used:** HTML, CSS, JavaScript, Teamwork, Problem Solving
-
-### **2. High School Project**
-
-**Project Title:** Your High School Project Name
-**Period:** 20XX
-**Description:** Explain what the project was about, what you contributed, and what you learned from it.
-**Skills Used:** Research, Presentation, Collaboration
-
-### **3. Academic or Personal Project**
-
-**Project Title:** Your Project Name
-**Period:** 20XX
-**Description:** Add a short summary of the project and why it is relevant to your field of interest.
-**Skills Used:** Programming, Design, Communication
-
-### **4. Additional Project**
-
-**Project Title:** Another Project Name
-**Period:** 20XX
-**Description:** Briefly explain the project scope and your contribution.
-**Skills Used:** Add your related skills here
 
 ---
 

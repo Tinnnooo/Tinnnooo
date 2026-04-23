@@ -24,18 +24,18 @@ I am a motivated student and full-stack developer currently working at PT. Scanj
 
 ### **University / Politeknik Negeri Batam**
 
-**Major:** Applied Bachelor
-**Years:** 2025 - Present
-**Expected Graduation:** 2029
-**Highlights:** Relevant coursework, academic focus, achievements, or student activities.
+- **Major:** Applied Bachelor
+- **Years:** 2025 - Present
+- **Expected Graduation:** 2029
+- **Highlights:** Relevant coursework, academic focus, achievements, or student activities.
 
 ### **Senior High School**
 
-**School:** SMK Negeri 1 Batam
-**Major:** Computer and Network Engineering
-**Years:** 2021 - 2024
-**Graduation Year:** 2024
-**Highlights:** Academic achievements, extracurricular activities, or interests developed during high school.
+- **School:** SMK Negeri 1 Batam
+- **Major:** Computer and Network Engineering
+- **Years:** 2021 - 2024
+- **Graduation Year:** 2024
+- **Highlights:** Academic achievements, extracurricular activities, or interests developed during high school.
 
 ---
 

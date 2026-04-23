@@ -1,4 +1,4 @@
-# Hi there, Tinno 👋
+# Hi there, I'm Tinno 👋
 
 **Fullstack Developer | Student**
 

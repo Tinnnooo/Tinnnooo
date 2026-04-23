@@ -89,7 +89,7 @@ I am a motivated student and full-stack developer currently working at PT. Scanj
 
 ## 🎯 Career Goals
 
-I aim to continue improving both my technical and interpersonal skills while growing as a full-stack developer at XXX and contributing to impactful projects in the future. I am especially interested in opportunities related to full-stack development, software engineering, web development, and digital product creation.
+I aim to continue improving both my technical and interpersonal skills while growing as a full-stack developer at PT.Scanjet Production Indah and contributing to impactful projects in the future. I am especially interested in opportunities related to full-stack development, software engineering, web development, and digital product creation.
 
 ---
 

@@ -39,6 +39,31 @@ I am a motivated student and full-stack developer currently working at PT. Scanj
 
 ---
 
+## 💼 Project Experience
+
+### **1. PBL Project – First Semester**
+
+- **Project Title:** Aplikasi Keuangan Digital RT/RW
+- **Period:** First Semester, 2025
+- **Description:** Aplikasi Keuangan Digital RT/RW is a digital financial management application designed to help the RT/RW treasury manage resident finances more efficiently. The system helps record and monitor resident payments, track taxes or financial obligations for each resident, and provide a more organized financial reporting process. It also allows residents to make payments digitally, making transactions easier, faster, and more transparent.
+- **Skills Used:** HTML, CSS, JavaScript, PHP, Teamwork, Problem Solving
+
+### **2. High School Project**
+
+- **Project Title:** PinjamTKJ
+- **Period:** 2022
+- **Description:** PinjamTKJ is an inventory management application developed for the Computer and Network Engineering department (Teknik Komputer dan Jaringan). The application helps students manage the borrowing process for equipment and rooms more efficiently. It was designed to simplify inventory tracking, organize borrowing records, and improve the management of department resources.
+- **Skills Used:** Research, HTML, CSS JavaScript, PHP, Laravel, Problem Solving
+
+### **3. Personal Project**
+
+**Project Title:** MMedia
+**Period:** 2022
+**Description:** MMedia is a customer management and billing application developed for an Internet Service Provider (ISP) in Batam. The project was delivered as a complete solution, including the full source code, to support the company’s operational needs. The system helps manage customer data, handle internet billing processes, and improve the efficiency of payment management. It is integrated with Duitku as a payment gateway to support digital bill payments, and also includes ODP Maps integration to help field engineers locate the nearest ODP more easily when handling customer service or network operations. This project is highly relevant to my field of interest because it combines web development, third-party integrations, and real-world business problem solving in a production-ready application.
+**Skills Used:** Programming, Design, Communication, Laravel, Third Party Integrations, Research
+
+---
+
 ## 🛠 Skills
 
 ### Programming Languages

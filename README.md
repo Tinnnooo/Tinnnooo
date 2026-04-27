@@ -57,10 +57,10 @@ I am a motivated student and full-stack developer currently working at PT. Scanj
 
 ### **3. Personal Project**
 
-**Project Title:** MMedia
-**Period:** 2022
-**Description:** MMedia is a customer management and billing application developed for an Internet Service Provider (ISP) in Batam. The project was delivered as a complete solution, including the full source code, to support the company’s operational needs. The system helps manage customer data, handle internet billing processes, and improve the efficiency of payment management. It is integrated with Duitku as a payment gateway to support digital bill payments, and also includes ODP Maps integration to help field engineers locate the nearest ODP more easily when handling customer service or network operations. This project is highly relevant to my field of interest because it combines web development, third-party integrations, and real-world business problem solving in a production-ready application.
-**Skills Used:** Programming, Design, Communication, Laravel, Third Party Integrations, Research
+- **Project Title:** MMedia
+- **Period:** 2022
+- **Description:** MMedia is a customer management and billing application developed for an Internet Service Provider (ISP) in Batam. The project was delivered as a complete solution, including the full source code, to support the company’s operational needs. The system helps manage customer data, handle internet billing processes, and improve the efficiency of payment management. It is integrated with Duitku as a payment gateway to support digital bill payments, and also includes ODP Maps integration to help field engineers locate the nearest ODP more easily when handling customer service or network operations. This project is highly relevant to my field of interest because it combines web development, third-party integrations, and real-world business problem solving in a production-ready application.
+- **Skills Used:** Programming, Design, Communication, Laravel, Third Party Integrations, Research
 
 ---
 
